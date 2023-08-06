@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+
+media-player {
+  --video-brand: rgb(0 122 188);
+  --video-font-family: 'Inter', sans-serif;
+}
+
+body {
+  margin: 0;
+}
